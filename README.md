@@ -21,6 +21,8 @@ Siren is a supportive caster focused around supporting allies.
 ### Details
 - When an ability is created, the pitch that creates the ability is the one that is replaced. 
 
+- Bonus stocks are converted into tempo stacks for the ability casted
+  
 - The other two pitches are replaced with a cancel button. 
 
 - Canceling drops your tempo but lets your retains the cooldown of the ability.
