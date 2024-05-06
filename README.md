@@ -19,13 +19,13 @@ Siren is a fragile caster focused around supporting allies.
 - Creating an ability that is on cooldown drops all tempo.
 
 ### Details
-- When an ability is created, the pitch that creates the ability is the one that is replaced. 
-
 - Bonus stocks are converted into tempo stacks for the ability casted
+  
+- When an ability is created, the pitch that creates the ability is the one that is replaced. 
   
 - The other two pitches are replaced with a cancel button. 
 
-- Canceling drops your tempo but lets your retains the cooldown of the ability.
+- Canceling drops your tempo but lets you retain the cooldown of the ability.
 
 - If you are confident in using her, you can disable this feature for instant spell casts. (Tempo will be gained on casts instead)
 
