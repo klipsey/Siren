@@ -6,7 +6,7 @@
 
 ### Art by Redacted
 
-Siren is a supportive caster focused around supporting allies.
+Siren is a squsihy caster focused around supporting allies.
 
 ## Passive - Chromatic Strum
 
